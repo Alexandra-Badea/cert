@@ -81,7 +81,7 @@ function About() {
               <h3 className='role'>Trainer</h3>
               <div className='social-media'>
                 <a href='https://www.facebook.com/enache.adina.9'><FacebookIcon /></a>
-                <a href='https://www.facebook.com/enache.adina.9'><InstagramIcon /></a>
+                <a href='https://www.instagram.com/adina_enache2003/'><InstagramIcon /></a>
               </div>
             </div>
 
@@ -92,8 +92,8 @@ function About() {
               <h2>Alexandra Badea</h2>
               <h3 className='role'>Youth Worker</h3>
               <div className='social-media'>
-                <a href='https://www.facebook.com/enache.adina.9'><FacebookIcon /></a>
-                <a href='https://www.facebook.com/enache.adina.9'><InstagramIcon /></a>
+                <a href='https://www.facebook.com/BadeaAlinaAlexandra/'><FacebookIcon /></a>
+                <a href='https://www.instagram.com/a.r.t_elier/'><InstagramIcon /></a>
               </div>
             </div>
 
@@ -104,8 +104,8 @@ function About() {
               <h2>David Enache</h2>
               <h3 className='role'>Digital Expert</h3>
               <div className='social-media'>
-                <a href='https://www.facebook.com/enache.adina.9'><FacebookIcon /></a>
-                <a href='https://www.facebook.com/enache.adina.9'><InstagramIcon /></a>
+                <a href='https://www.facebook.com/DavidM4A1'><FacebookIcon /></a>
+                <a href='https://www.instagram.com/david_enache13/'><InstagramIcon /></a>
               </div>
             </div>
 
