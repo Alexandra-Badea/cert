@@ -1,0 +1,36 @@
+.contact-form h2 {
+    text-align: center;
+}
+
+.address {
+    width: 90%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.vertical-line {
+    width: 50%;
+    margin: 0 auto;
+    height: 1px;
+    background-color: #dedcdc;
+} 
+
+iframe {
+    border: 0;
+    margin: 20px auto;
+}
+
+@media only screen and (min-width: 700px) {
+    .address {
+        display: flex;
+        /* justify-content: space-between; */
+        align-items: center;
+        max-height: 400px;
+    }
+
+    .vertical-line {
+        width: 1px;
+        height: 100px;
+        background-color: #dedcdc;
+    }  
+}

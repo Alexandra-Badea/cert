@@ -1,0 +1,22 @@
+footer {
+    width: 100%;
+    padding: 5px 5%;
+    background-color: #f8f8f8;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: 30px;
+}
+
+footer div {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    color: #333;
+    padding: 0 8px;
+}
+
+footer a:hover {
+    color: green;
+}
