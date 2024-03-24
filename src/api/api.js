@@ -4,7 +4,7 @@ import Cookies from 'universal-cookie';
 const cookies = new Cookies();
 
 const api = axios.create({
-    baseURL: 'https://cert-api.onrender.com/api',
+    baseURL: 'https://cert-api-hlkw.onrender.com/api',
 })
 
 const getMethod = async (route) => {
